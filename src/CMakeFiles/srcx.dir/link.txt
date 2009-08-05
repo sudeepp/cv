@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wl,-search_paths_first -headerpad_max_install_names -fPIC CMakeFiles/srcx.dir/vkeybd.cc.o CMakeFiles/srcx.dir/webcam.cc.o  -o srcx  -L/Users/sudeep/Code/cv/../../opencv/lib -L/Users/sudeep/Code/cv/src/../third/blobs -framework Python -lcv -lhighgui -lcxcore 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr blobs.mod  CMakeFiles/blobs.dir/blob.cc.o CMakeFiles/blobs.dir/blob_contour.cc.o CMakeFiles/blobs.dir/blob_operators.cc.o CMakeFiles/blobs.dir/blob_result.cc.o CMakeFiles/blobs.dir/component_labeling.cc.o
+/usr/bin/ranlib blobs.mod

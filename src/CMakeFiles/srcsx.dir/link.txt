@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wl,-search_paths_first -headerpad_max_install_names -fPIC CMakeFiles/srcsx.dir/vkeybd.cc.o  -o srcsx  -L/Users/sudeep/Code/cv/../../opencv/lib -framework Python libsrcs.dylib -framework AGL -framework OpenGL -framework AGL -lcv -lhighgui -lcxcore -framework Python -framework AGL -framework OpenGL -framework AGL -framework OpenGL -lcv -lhighgui -lcxcore 

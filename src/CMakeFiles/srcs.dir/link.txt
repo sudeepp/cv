@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -dynamiclib -headerpad_max_install_names  -o libsrcs.dylib -install_name /Users/sudeep/Code/cv/src/libsrcs.dylib CMakeFiles/srcs.dir/webcam.cc.o -L/Users/sudeep/Code/cv/../../opencv/lib -framework Python -framework AGL -framework OpenGL -framework AGL -lcv -lhighgui -lcxcore ../third/blobs/blobs.mod -framework OpenGL -lcv -lhighgui -lcxcore 

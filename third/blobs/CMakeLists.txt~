@@ -1,0 +1,11 @@
+link_libraries(srcs)
+include_directories(../../src)
+
+add_library(blobs SHARED
+  blob.cc
+  blob_contour.cc
+  blob_operators.cc
+  blob_result.cc
+  component_labeling.cc
+)
+set_target_properties(blobs PROPERTIES PREFIX "" SUFFIX ".mod")

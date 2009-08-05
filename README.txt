@@ -1,0 +1,1 @@
+cmake -DCMAKE_BUILD_TYPE=DEBUG -DOPENCV_SRCPATH=`pwd`/../opencv .
